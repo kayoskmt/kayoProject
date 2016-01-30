@@ -11,3 +11,8 @@
 * define what to collect: "social innovator?"
 * key word listing
 * search through LinkedIn
+* 
+
+## For project part 1
+* Identify our vision mission values
+* 
